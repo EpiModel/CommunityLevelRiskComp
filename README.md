@@ -2,8 +2,6 @@
 
 This repository contains the code for our analysis examining variable HIV PrEP coverage and community-level behavioral differences. This study examined the association between community-level PrEP use and five behavioral risk indicators to determine whether behavioral change at a community-level is occurring independent of individual-level PrEP-related behavioral changes among US MSM.
 
-# Citation
-
 
 # Abstract
 
@@ -19,3 +17,15 @@ Adjusting for individual PrEP use and demographics, community PrEP coverage was 
 
 ## Interpretation
 Most of the associations between community PrEP coverage and sexual risk were explained by individual PrEP use. However, there were residual associations after controlling for individual PrEP use, providing evidence of community-level behavioral differences driven by PrEP coverage.
+
+
+# Data
+We used data from ARTnet - a cross-sectional online survey of study of US MSM conducted during 2017–2019. Additional documentation on ARTnet and information to accessing the data can be found at https://github.com/EpiModel/ARTnetData. Code to install the “ARTnetData” package can be found below, but it may require a Github Personal Access Token (https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token) since it is a private repository.
+
+```
+install.packages("remotes")
+remotes::install_github("EpiModel/ARTnetData")
+```
+
+# Code Organization
+The cleaning script cleaning.R is the script used to prepare the ARTnet data for analysis. The analysis script analysis.R is the script used for analysis bivariable and multivariable regression models.
