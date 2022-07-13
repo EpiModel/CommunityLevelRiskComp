@@ -1,6 +1,6 @@
 # PrEPCommunityLevelBehaviors
 
-This repository contains the code for our study, "Correlations Between Community-Level HIV Preexposure Prophylaxis Coverage and Individual-Level Sexual Behaviors among US Men Who Have Sex with Men." This study examined the association between community-level PrEP use and five behavioral risk indicators to determine whether behavioral change at a community-level is occurring independent of individual-level PrEP-related behavioral changes among US MSM.
+This repository contains the code for our study, "Correlations Between Community-Level HIV Preexposure Prophylaxis Coverage and Individual-Level Sexual Behaviors among US Men Who Have Sex with Men." This study examined the association between community-level PrEP use and seven behavioral risk indicators to determine whether behavioral change at a community-level is occurring independent of individual-level PrEP-related behavioral changes among US MSM.
 
 
 # Abstract
