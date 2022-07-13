@@ -2,6 +2,8 @@
 
 This repository contains the code for our study, "Correlations Between Community-Level HIV Preexposure Prophylaxis Coverage and Individual-Level Sexual Behaviors among US Men Who Have Sex with Men." This study examined the association between community-level PrEP use and seven behavioral risk indicators to determine whether behavioral change at a community-level is occurring independent of individual-level PrEP-related behavioral changes among US MSM.
 
+## Citation
+> TBD
 
 # Abstract
 
@@ -30,4 +32,4 @@ remotes::install_github("EpiModel/ARTnetData")
 ```
 
 # Code Organization
-The cleaning script `cleaning.R` is the script used to prepare the ARTnet data for analysis. The analysis script `analysis.R` is the script used for analysis.
+The cleaning script `cleaning.R` is the script used to prepare the ARTnet data for analysis. The analysis script `analysis.R` is the script used for analysis and table creation.
