@@ -3,7 +3,7 @@
 This repository contains the code for our study, "Correlations Between Community-Level HIV Preexposure Prophylaxis Coverage and Individual-Level Sexual Behaviors among US Men Who Have Sex with Men."
 
 ## Citation
-> Mann LM, Le Guillou A, Goodreau SM, Marcus JL, Sanchez T, Weiss KM, Jenness SM. Correlations Between Community-Level HIV Preexposure Prophylaxis Coverage and Individual-Level Sexual Behaviors among US Men Who Have Sex with Men. _Under review_.
+> Mann LM, Le Guillou A, Goodreau SM, Marcus JL, Sanchez T, Weiss KM, Jenness SM. Correlations Between Community-Level HIV Preexposure Prophylaxis Coverage and Individual-Level Sexual Behaviors among United States MSM. _AIDS_. 26 Jul 2022 [epub ahead of print]. doi: 10.1097/QAD.0000000000003343.
 
 ## Abstract
 
